@@ -1,1 +1,3 @@
 # sp-rick-alana
+
+The network scanner is a script to use and control nmap after downloading it into your machine. Once downloaded, you can use the snippet to control nmap and run whatever type of network scan you want, and even find what ports are being used to listen. It was difficult getting Visual Studio to "see" nmap and python, but that might have been my machine's fault. The demo included this code snippet as well as a virtual box simulation of nmap penetration testing using Kali Linux. This is just a simple download feature after configuring the correct storage driver for your Virtual Box to be Kali. Nmap is already a part of this operating system so demoing is as easy as opening a command prompt. 
